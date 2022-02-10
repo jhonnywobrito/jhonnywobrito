@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jhonnywhoo
+- 👀 I’m interested to Dev systems, sites, apps and games
+- 🌱 I’m currently learning how to code in PROA - SENAC 😃
