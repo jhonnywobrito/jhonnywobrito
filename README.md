@@ -1,7 +1,9 @@
 
 <div id="header" align="center">
   
-👋 Hi, I’m Jhonny Brito
+<h1>
+  👋 Hi, I’m Jhonny Brito
+ </h1>
 👀 I’m interested to Dev systems, sites, apps and games
 🌱 I’m currently learning how to code websites in PROA - SENAC 😃
 
