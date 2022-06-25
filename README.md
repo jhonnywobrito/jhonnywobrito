@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
-<h1>👋 Hi, I’m Jhonny Brito
   
-<p font-size="2px">👀 I’m interested to Dev systems, sites, apps and games
-<p>🌱 I’m currently learning how to code websites in PROA - SENAC 😃
+👋 Hi, I’m Jhonny Brito
+👀 I’m interested to Dev systems, sites, apps and games
+🌱 I’m currently learning how to code websites in PROA - SENAC 😃
 
   <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="100"/>
 </div id="main">
