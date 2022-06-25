@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<div id="technologies">
+<div id="technologies" align="center">
 <h2>Minhas tecnologias<h2>
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40px" width="40px">
@@ -27,6 +27,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
+  
   <p>Buscando sempre aprender mais!</p>
+  
   </div>
       
