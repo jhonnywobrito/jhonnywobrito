@@ -2,10 +2,10 @@
 <div id="header" align="center">
   
 <h1>
-  👋 Hi, I’m Jhonny Brito
+  👋 Olá, me chamo Jhonny Brito
 </h1>
-<p>👀 I’m interested to Dev systems, sites, apps and games</p>
-<p>🌱 I’m currently learning how to code websites in PROA - SENAC 😃</p>
+<p>👀 Sou desenvolvedor Web Java</p>
+<p>🌱 Aprendi a codar no Instituto PROA - SENAC 😃</p>
 
   <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="200"/>
 </div>
