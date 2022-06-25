@@ -21,8 +21,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40px" width="40px">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40px" width="40px">
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
-      
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhonnywhoo&theme=dark&background=000000)](https://git.io/streak-stats)
+  
     <div/>
 </div>
 
