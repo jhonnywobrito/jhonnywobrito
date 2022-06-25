@@ -1,9 +1,9 @@
 
 <div id="header" align="center">
   <ul>
-<li>👋 Hi, I’m @Jhonnywhoo
-<li>👀 I’m interested to Dev systems, sites, apps and games
-<li>🌱 I’m currently learning how to code in PROA - SENAC 😃
+<p>👋 Hi, I’m @Jhonnywhoo<p>
+<p>👀 I’m interested to Dev systems, sites, apps and games<p>
+<p>🌱 I’m currently learning how to code in PROA - SENAC 😃<p>
   <ul/>
     <hr>
   <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="100"/>
