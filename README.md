@@ -2,8 +2,9 @@
 <div id="header" align="center">
 <h1>👋 Hi, I’m Jhonny Brito
   
-<p>👀 I’m interested to Dev systems, sites, apps and games
+<p font-size="2px">👀 I’m interested to Dev systems, sites, apps and games
 <p>🌱 I’m currently learning how to code websites in PROA - SENAC 😃
+
   <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="100"/>
 </div id="main">
   <div id="social" align="center">
