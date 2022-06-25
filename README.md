@@ -22,7 +22,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40px" width="40px">
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
       
-      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhonnywhoo&theme=dark&background=000216&stroke=DDDDDD&ring=DD2727&fire=DD2727&currStreakLabel=DDDDDD)](https://git.io/streak-stats)
+      https://github-readme-streak-stats.herokuapp.com/?user=Jhonnywhoo
     <div/>
 </div>
 
