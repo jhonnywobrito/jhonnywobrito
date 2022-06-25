@@ -27,7 +27,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
-  
+  <hr>
   <p>Buscando sempre aprender mais!</p>
   
   </div>
