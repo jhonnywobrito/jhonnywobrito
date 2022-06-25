@@ -23,6 +23,5 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
   
     <div/>
-</div>
 
       
