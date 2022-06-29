@@ -10,9 +10,9 @@
   <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif" width="200"/>
 </div>
 
-<div id="social align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/jhonnywobrito/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon" width="120" align="center/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon" width="120"/>
   </a>
   <a href = "mailto:jhonnywobrito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="GMail icon" width="110></a>
 </div>
