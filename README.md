@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/jhonnywobrito/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon"/>
   </a>
-  <a href = "mailto:jhonnywobrito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="GMail icon" width="110></a>
 </div>
     <br>
 <div align="center">
