@@ -36,5 +36,8 @@
   <hr>
   <p>Buscando sempre aprender mais!</p>
   
+ 
+  
   </div>
       
+![Snake animation](https://github.com/Jhonnywhoo/Jhonnywhoo/blob/output/github-contribution-grid-snake.svg)
