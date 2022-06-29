@@ -18,8 +18,8 @@
     <br>
 <div align="center">
 <a href="https://github.com/Jhonnywhoo">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JhonnyBrito&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyBrito&layout=compact&langs_count=7&theme=default"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jhonnywhoo&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonnywhoo&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 <div id="technologies" align="center">
