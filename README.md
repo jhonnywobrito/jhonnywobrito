@@ -16,6 +16,12 @@
   </a>
   <a href = "mailto:jhonnywobrito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="GMail icon" width="110></a>
 </div>
+    
+<div align="center">
+<a href="https://github.com/IgorCaenfa">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=IgorCaenfa&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCaenfa&layout=compact&langs_count=7&theme=default"/>
+</div>
 
 <div id="technologies" align="center">
 <h2>Minhas tecnologias<h2>
