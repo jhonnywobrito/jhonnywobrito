@@ -24,6 +24,7 @@
 
 <div id="technologies" align="center">
 <h2>Minhas tecnologias<h2>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40px" width="40px">
