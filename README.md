@@ -37,9 +37,3 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
   <hr>
   <p>Buscando sempre aprender mais!</p>
-  
- 
-  
-  </div>
-      
-![Snake animation](https://github.com/Jhonnywhoo/Jhonnywhoo/blob/output/github-contribution-grid-snake.svg)
