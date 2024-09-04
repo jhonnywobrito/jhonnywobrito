@@ -31,6 +31,8 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40px" width="40px">
+
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" width="40px"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
