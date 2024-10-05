@@ -6,7 +6,7 @@
 </h1>
 <p>👀 Sou desenvolvedor Web</p>
 <p>🌱 Aprendi a codar no Instituto PROA - SENAC</p>
-<p>🫒 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes - UMC</p>
+<p>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes - UMC</p>
 
   <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif"/>
 </div>
@@ -33,7 +33,5 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40px" width="40px">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40px" width="40px">
      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40px" width="40px">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40px" width="40px">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40px" width="40px">
   <hr>
   <p>Buscando sempre aprender mais!</p>
