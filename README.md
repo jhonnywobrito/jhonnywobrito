@@ -6,7 +6,7 @@
 </h1>
 <p>👀 Sou desenvolvedor Web</p>
 <p>🌱 Aprendi a codar no Instituto PROA - SENAC</p>
-<p>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes - UMC</p>
+<p>✨️ Estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes - UMC</p>
 
   <img src="https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif"/>
 </div>
