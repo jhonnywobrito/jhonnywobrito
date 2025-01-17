@@ -22,6 +22,8 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnywobrito&layout=compact&langs_count=7&theme=default"/>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnywobrito&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="technologies" align="center">
 <h2>Minhas tecnologias<h2>
      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40px" width="40px">
@@ -35,5 +37,3 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40px" width="40px">
   <hr>
   <p>Buscando sempre aprender mais!</p>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnywobrito)](https://github.com/anuraghazra/github-readme-stats)
