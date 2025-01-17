@@ -18,11 +18,8 @@
 </div>
     <br>
 <div align="center">
-<a href="https://github.com/jhonnywobrito">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnywobrito&layout=compact&langs_count=7&theme=default"/>
-</div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnywobrito&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div id="technologies" align="center">
 <h2>Minhas tecnologias<h2>
