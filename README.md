@@ -35,3 +35,5 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="40px" width="40px">
   <hr>
   <p>Buscando sempre aprender mais!</p>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonnywobrito)](https://github.com/anuraghazra/github-readme-stats)
