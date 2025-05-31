@@ -4,7 +4,7 @@
 <h1>
   👋 Olá, me chamo Jhonny Brito
 </h1>
-<p>👀 Sou desenvolvedor Web</p>
+<p>👀 Sou Dev. Web, Analista de Dados</p>
 <p>🌱 Aprendi a codar no Instituto PROA - SENAC</p>
 <p>✨️ Estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes - UMC</p>
 
